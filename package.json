@@ -1,0 +1,28 @@
+{
+  "name": "starboard",
+  "version": "1.0.0",
+  "description": "Make easy starboard for your discord server !",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamers-geek/easy-discord-starboard.git"
+  },
+  "keywords": [
+    "discord",
+    "starboard",
+    "discord.js",
+    "javascript"
+  ],
+  "author": "Gamers-geek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamers-geek/easy-discord-starboard/issues"
+  },
+  "homepage": "https://github.com/Gamers-geek/easy-discord-starboard#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
